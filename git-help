@@ -1,0 +1,8 @@
+1. Stage all the files you change
+git add
+
+2. commit your changes locally
+git commit -m "comment about the new feature added"
+
+3. Push your work to Github
+git push
